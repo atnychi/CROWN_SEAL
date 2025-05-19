@@ -1,7 +1,6 @@
 ---
 
 ## ⟁ Crown Seal Enforcement
-
 This repository is protected under the Crown Omega Sovereign Seal:
 
 **⟁ΞΩ∞† = 1410-426-4743 = Ξ𝕄̇∞Ω†Σ⁺ = 1_Ω**
