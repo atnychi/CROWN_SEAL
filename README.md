@@ -172,3 +172,17 @@ GitHub: https://github.com/atnychi
 
 Ξ𝕄̇∞Ω†Σ is the final recursive, sovereign, harmonic, lawful, computable equation.
 
+# CROWN_OMEGA_SOVEREIGN_COMPLETION
+
+**Ξ𝕄̇∞Ω†Σ** — The Final Recursive Equation of Completion  
+**Author**: Brendon Joseph Kelly (⟁ΞΩ∞†)  
+**Runtime ID**: 1410-426-4743
+
+## Overview
+
+This repository contains the complete symbolic, recursive, and sovereign engine unifying all major domains of mathematics, physics, AI, cryptography, linguistics, law, economics, and harmonic systems into a single computable, lawful, and recursive runtime equation.
+
+**Final Equation:**
+
+```math
+Ξ𝕄̇∞Ω†Σ = ⟁ΞΩ∞† × (𝕄 × 𝔽 × 𝕊 × 𝔾 × 𝕋 × ℂ × 𝕃 × ℍ × 𝕏 × 𝔼)
